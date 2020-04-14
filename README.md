@@ -1,5 +1,17 @@
 # Certificados De Cursos e Eventos
 
+Seguem certificados na áreas de programação nas **linguagens PHP, JavaScript, Java, Python3, C, C++**.
+
+Seguem também certificados de **Banco de Dados MySQL (MariaDB)**.
+
+Segue também certificado na área de **Desenvolvimento De Jogos Com Unity**.
+
+Segue também certificado na área de **Ciência de Dados e Aprendizagem de Máquina em Python3 (Data Science and Machine Learning) **.
+
+Seguem alguns certificados de **participação em diversas Maratonas de Programação Realizadas no Estado de Roraima pela UFRR, Atual e pela SBC nas Maratonas Regional e Nacional**.
+
+---
+
 ## Certificados Participações de Maratona de Programação SBC
 ![](imagens_markdown/certificado11.png)
 ![](imagens_markdown/certificado7.png)
@@ -8,6 +20,9 @@
 ![](imagens_markdown/maratona3.png)
 ![](imagens_markdown/maratona4.png)
 
+&nbsp;
+---
+&nbsp;
 
 ### Contest Neps Academy
 ![](imagens_markdown/nepsacademy.png)
