@@ -10,7 +10,7 @@
 
 
 ### Contest Neps Academy
-![](imagens_markdown/Conteste NepsAcademy.png)
+![](imagens_markdown/ContesteNepsAcademy.png)
 
 
 ## Certificado de Linux LPIC-I - Udemy
@@ -18,7 +18,7 @@
 
 
 ## Certificado de Banco de Dados MySQL - Curso em Vídeo
-![](imagens_markdown/Certificado Banco de Dados.png)
+![](imagens_markdown/CertificadoMysql.png)
 
 
 ## Certificado de Linguagem C - SOLID (EM INGLÊS)
