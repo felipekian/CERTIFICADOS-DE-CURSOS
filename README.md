@@ -1,4 +1,4 @@
-# Certificados De Cursos e Eventos {/c}
+# Certificados De Cursos e Eventos
 
 * Seguem certificados na áreas de programação nas ***linguagens PHP, JavaScript, Java, Python3, C, C++***.
 
