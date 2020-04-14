@@ -26,8 +26,8 @@
 
 
 ## Certificado de Linguagem JAVA e JAVA POO - Curso em Vídeo
-![](imagens_markdown/Certificado curso de JAVA.png) 
-![](imagens_markdown/Certificado POO - CURSO EM VIDEO.png)
+![](imagens_markdown/CertificadocursodeJAVA.png) 
+![](imagens_markdown/CertificadoPOOCURSOEMVIDEO.png)
 
 
 ## Certificado de Linguagem PHP e PHP com MySQL - Curso em Vídeo e Udemy
