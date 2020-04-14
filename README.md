@@ -10,9 +10,10 @@
 
 * Seguem alguns certificados de ***participação em diversas Maratonas de Programação Realizadas no Estado de Roraima pela UFRR, Atual e pela SBC nas Maratonas Regional e Nacional***.
 
----
+--- 
 
-## Certificados Participações de Maratona de Programação SBC
+
+# Certificados Participações de Maratona de Programação
 ![](imagens_markdown/certificado11.png)
 ![](imagens_markdown/certificado7.png)
 ![](imagens_markdown/maratona1.png)
@@ -20,9 +21,6 @@
 ![](imagens_markdown/maratona3.png)
 ![](imagens_markdown/maratona4.png)
 
-&nbsp;
----
-&nbsp;
 
 ### Contest Neps Academy
 ![](imagens_markdown/nepsacademy.png)
