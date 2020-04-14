@@ -10,7 +10,7 @@
 
 
 ### Contest Neps Academy
-![](imagens_markdown/Conteste NepsAcademy 100% de aproveitamento.png)
+![](imagens_markdown/Conteste NepsAcademy.png)
 
 
 ## Certificado de Linux LPIC-I - Udemy
