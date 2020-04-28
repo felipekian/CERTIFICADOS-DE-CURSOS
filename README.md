@@ -1,4 +1,4 @@
-# Certificados De Cursos e Eventos
+# CERTIFICADOS DE CURSOS E EVENTOS
 
 * Seguem certificados na áreas de programação nas ***linguagens PHP, JavaScript, Java, Python3, C, C++***.
 
