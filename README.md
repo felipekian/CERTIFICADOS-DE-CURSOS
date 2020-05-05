@@ -1,5 +1,7 @@
 # CERTIFICADOS DE CURSOS E EVENTOS
 
+## CONTATO E-mail: felipekian@yahoo.com.br
+
 * Seguem certificados na áreas de programação nas ***linguagens PHP, JavaScript, Java, Python3, C, C++***.
 
 * Seguem também certificados de ***Banco de Dados MySQL (MariaDB)***.
@@ -10,7 +12,6 @@
 
 * Seguem alguns certificados de ***participação em diversas Maratonas de Programação Realizadas no Estado de Roraima pela UFRR, Atual e pela SBC nas Maratonas Regional e Nacional***.
 
-* ***Contato: felipekian@yahoo.com.br***
 
 <br><br>
 --- 
